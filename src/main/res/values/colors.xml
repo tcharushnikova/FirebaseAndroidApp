@@ -1,0 +1,14 @@
+<resources>
+    <color name="primary_light">#7a7cff</color>
+    <color name="primary">#304ffe</color>
+    <color name="primary_dark">#0026ca</color>
+    <color name="secondary_light">#c1d5e0</color>
+    <color name="secondary">#90a4ae</color>
+    <color name="secondary_dark">#62757f</color>
+
+    <color name="assistant_text">#FFFFFF</color>
+    <color name="user_color">#E0E0E0</color>
+    <color name="assistant_color">#212121</color>
+    <color name="user_text">#000000</color>
+    <color name="background">#FFFFFF</color>
+</resources>

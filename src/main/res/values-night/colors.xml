@@ -1,0 +1,9 @@
+<resources>
+    <color name="assistant_text">#FFFFFF</color>
+    <color name="user_color">#4C4C4C</color>
+    <color name="assistant_color">#7a7cff</color>
+    <color name="user_text">#FFFFFF</color>
+    <color name="primary">#7a7cff</color>
+    <color name="secondary">#c1d5e0</color>
+    <color name="background">#000000</color>
+</resources>
